@@ -58,29 +58,13 @@ footer
 
 .main--nav__item
 {
-    padding-left: 65px;
     display: inline-block;
     
 }
 
 .main--nav__item a 
 {
-    color:black;
+    color:white;
     font-size: 20px;
-    background-color:white;
-    padding: 5px;
-    border-radius: 20px;
-    text-decoration: none;
    
 }
-
-.main--nav__item a:hover
-{
-    color:indianred;
-}
-
-.main--nav__item a:active
-{
-    color:blue;
-}
-

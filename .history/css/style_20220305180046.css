@@ -35,7 +35,7 @@ header
 
 .main--nav
 {
-    background-color:#e3f0f3;
+    background-color:#c1c6c9;
     list-style: none;
     padding-left: 0;
 }
@@ -55,32 +55,3 @@ footer
     text-align: center;
     
 }
-
-.main--nav__item
-{
-    padding-left: 65px;
-    display: inline-block;
-    
-}
-
-.main--nav__item a 
-{
-    color:black;
-    font-size: 20px;
-    background-color:white;
-    padding: 5px;
-    border-radius: 20px;
-    text-decoration: none;
-   
-}
-
-.main--nav__item a:hover
-{
-    color:indianred;
-}
-
-.main--nav__item a:active
-{
-    color:blue;
-}
-

@@ -58,7 +58,6 @@ footer
 
 .main--nav__item
 {
-    padding-left: 65px;
     display: inline-block;
     
 }
@@ -69,7 +68,7 @@ footer
     font-size: 20px;
     background-color:white;
     padding: 5px;
-    border-radius: 20px;
+    border-radius: 2px;
     text-decoration: none;
    
 }
@@ -78,9 +77,3 @@ footer
 {
     color:indianred;
 }
-
-.main--nav__item a:active
-{
-    color:blue;
-}
-
