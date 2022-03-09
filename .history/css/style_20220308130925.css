@@ -107,3 +107,6 @@ footer
     11.1px 12.6px 18.9px -2.5px hsl(var(#000000) / 0.38);
 }
 
+li + li{
+    color:aqua;
+}
