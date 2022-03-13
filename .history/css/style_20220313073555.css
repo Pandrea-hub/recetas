@@ -126,30 +126,16 @@ footer
 
 #two
 {
-    padding-top: 10%;
-    padding-inline:10%;
+    padding: 10%;
     box-shadow: 10px 10px 5px #aaaaaa;
-    height: auto;
     
 }
 
 
 #two img
 {
-    width: 90%;
+    width: 50%;
     height: 160%;
-    margin-left: 8%;
-    margin-top: 10%;
+    margin-left: 25%;
+    margin-top: -15%;
 }
-
-#two ul
-{
-    padding-top:10%;
-}
-
-#two figure
-{
-    padding-top: 5%;
-    text-align: center;
-}
-

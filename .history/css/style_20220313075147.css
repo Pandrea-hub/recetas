@@ -126,8 +126,7 @@ footer
 
 #two
 {
-    padding-top: 10%;
-    padding-inline:10%;
+    padding: 10%;
     box-shadow: 10px 10px 5px #aaaaaa;
     height: auto;
     
@@ -144,12 +143,10 @@ footer
 
 #two ul
 {
-    padding-top:10%;
+    padding-top:30%;
 }
 
 #two figure
 {
-    padding-top: 5%;
     text-align: center;
 }
-

@@ -95,7 +95,7 @@ footer
 .parent
 {
     margin-top: 10%;
-    margin-left: 30%;
+    margin-inline: 40%;
     align-items: center;
     
 }
@@ -104,11 +104,8 @@ footer
 .box{
     display: inline-block;
     border: 1px black solid;
-    width: 40vw;
+    width: 300px;
     height:300px;
-    background-color:white;
-    border-radius:30px;
-    padding: 2%;
 }
 
 #one
@@ -116,40 +113,6 @@ footer
     background-color: cadetblue;
     position: absolute;
     height: 10%;
-    width: 30%;
-    margin-top: -2%;
-    margin-inline: 5.3%;
-    border-radius:10px;
-    padding-left: 10%;
-
+    width: 15%;
+    margin-inline: 2.5%;
 }
-
-#two
-{
-    padding-top: 10%;
-    padding-inline:10%;
-    box-shadow: 10px 10px 5px #aaaaaa;
-    height: auto;
-    
-}
-
-
-#two img
-{
-    width: 90%;
-    height: 160%;
-    margin-left: 8%;
-    margin-top: 10%;
-}
-
-#two ul
-{
-    padding-top:10%;
-}
-
-#two figure
-{
-    padding-top: 5%;
-    text-align: center;
-}
-
